@@ -41,9 +41,7 @@ Crée une application simple avec FaceID
         // On devrait renvoyer une erreur si l'appareil ne prend pas en charge l'authentification biométrique.
     }
 
-
-
-https://github.com/Hallucinette/FaceID/assets/54113911/38a2d53d-5c4e-403a-bc5d-a7def8fa5c45
+![videoDemo](https://github.com/Hallucinette/FaceID/AppFaceIdDEMO.mp4)
 
 
 ### Documentation:
