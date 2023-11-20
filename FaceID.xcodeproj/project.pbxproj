@@ -11,6 +11,8 @@
 		7B65038B2B0B8CD700C1AD39 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B65038A2B0B8CD700C1AD39 /* ContentView.swift */; };
 		7B65038D2B0B8CD800C1AD39 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7B65038C2B0B8CD800C1AD39 /* Assets.xcassets */; };
 		7B6503902B0B8CD800C1AD39 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7B65038F2B0B8CD800C1AD39 /* Preview Assets.xcassets */; };
+		7B65039B2B0C012A00C1AD39 /* FaceIdViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B65039A2B0C012A00C1AD39 /* FaceIdViewModel.swift */; };
+		7B65039D2B0C036600C1AD39 /* CustomEnumModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B65039C2B0C036600C1AD39 /* CustomEnumModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		7B65038A2B0B8CD700C1AD39 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		7B65038C2B0B8CD800C1AD39 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7B65038F2B0B8CD800C1AD39 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		7B65039A2B0C012A00C1AD39 /* FaceIdViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FaceIdViewModel.swift; sourceTree = "<group>"; };
+		7B65039C2B0C036600C1AD39 /* CustomEnumModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomEnumModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				7B6503882B0B8CD700C1AD39 /* FaceIDApp.swift */,
 				7B65038A2B0B8CD700C1AD39 /* ContentView.swift */,
+				7B65039C2B0C036600C1AD39 /* CustomEnumModel.swift */,
+				7B65039A2B0C012A00C1AD39 /* FaceIdViewModel.swift */,
 				7B65038C2B0B8CD800C1AD39 /* Assets.xcassets */,
 				7B65038E2B0B8CD800C1AD39 /* Preview Content */,
 			);
@@ -138,7 +144,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				7B65038B2B0B8CD700C1AD39 /* ContentView.swift in Sources */,
+				7B65039D2B0C036600C1AD39 /* CustomEnumModel.swift in Sources */,
 				7B6503892B0B8CD700C1AD39 /* FaceIDApp.swift in Sources */,
+				7B65039B2B0C012A00C1AD39 /* FaceIdViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
